@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+:root {
+	--primary: #b71c1c;
+	--accent: #f8bbd0;
+	--text-primary: white;
+	--text-accent: black;
+	--text-subtle: rgb(81, 81, 81);
+	--text-link: #f05545;
+	--border-color: rgb(214, 214, 214)
+}
+
+body {
+	
+}
+
+/* Navbar/Header */
+.header {
+
+}
+
+.header-title {
+
+}
+
+.header hr{
+
+}
+
+/* Header Gallery Thumbnails */
+.header-thumbnails {
+
+}
+
+.header-item a {
+	text-decoration: none;
+}
+
+.header-item img {
+
+}
+
+.header-item img:hover {
+
+}
+
+/* Header Gallery Numbers */
+.header-number {
+
+}
+
+
+/* POST */
+.posts-container {
+
+}
+
+.post {
+
+}
+
+/* HEADER */
+.post-header {
+
+}
+
+.post-title {
+
+}
+
+.post-date {
+
+}
+
+/* CONTENT */
+.content-image {
+
+}
+
+/* FOOTER */
+
+}
+
+.desc-title {
+
+}
+
+.desc-body {
+
+}
+
+/* Footer Buttons */
+.footer-buttons {
+
+}
+
+.footer-buttons ul {
+
+}
+
+.footer-buttons li {
+
+}
+
+
+#like {
+
+}
+
+#comment {
+
+}
+
+#save {
+
+}
+
+/* Text-level selectors */
+/* Website link */
+a[href^="http"] {
+
+}
